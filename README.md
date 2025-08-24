@@ -1,11 +1,11 @@
-# Arhaan's Python Tutorials 🐍
+# Arhaan's Python Turtle Tutorials 🐢🐍
 
-Welcome! Here you’ll find beginner-friendly Python tutorials for IDLE, VS Code, Turtle Graphics, loops, input/output, and more!
+Learn Python Turtle with beginner-friendly examples for IDLE, VS Code, and more! Draw shapes, patterns, and have fun while coding.
 
 ---
 
 ## ☕ Support Me
-If you enjoy these tutorials, you can support me here:  
+If you like these Turtle tutorials, you can support me here:  
 [Buy Me a Coffee](https://www.buymeacoffee.com/ArhaanTheCoder)  
 
 ---
@@ -16,4 +16,4 @@ Don’t forget to **Watch this repository** to get notifications when someone re
 
 ---
 
-Happy coding! 🎉
+Happy coding and have fun drawing! 🎨🐍
